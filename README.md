@@ -2,7 +2,7 @@
 
 This App helps to get the instant info on COVID-19 pandemic.
 We can get info of states, safety tips plus helpline is given also global
-tracker and much more.
+tracker and much more. 
 
 ## Screenshots
 
